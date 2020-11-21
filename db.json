@@ -1,0 +1,32 @@
+{
+  "slides": [
+    { 
+      "url": "50per",
+      "img": "50percent.jpg",
+      "title": "Кожна друга піца зі знижкою"
+    },
+    { 
+      "url": "crazy",
+      "img": "crazy-tuesday.jpg",
+      "title": "Шалена середа, знижки до "
+    },
+    { 
+      "url": "wow",
+      "img": "woweekend.jpg",
+      "title": ""
+    },
+     { 
+      "url": "30per",
+      "img": "30percent.jpg",
+      "title": ""
+    },
+    { 
+      "url": "179",
+      "img": "179-uah-pizza.jpg",
+      "title": ""
+    },  
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
