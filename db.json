@@ -4,19 +4,19 @@
       { 
         "img": "50percent.jpg",
         "title": "Кожна друга піца зі знижкою"
-      },
+      }
       { 
         "img": "crazy-tuesday.jpg",
         "title": "Шалена середа, знижки до "
-      },
+      }
       { 
         "img": "woweekend.jpg",
         "title": ""
-      },
+      }
       { 
         "img": "30percent.jpg",
         "title": ""
-      },
+      }
       { 
         "img": "179-uah-pizza.jpg",
         "title": ""
@@ -27,17 +27,17 @@
       "title": "Пепероні-Блюз",
       "img": "pizza/classic/peperoni_bluz_short.jpg",
       "desc": "Ціна: 125грн, вага: 296г"
-      },
+      }
       {
       "title": "Кантрі",
       "img": "pizza/branded/country_short.jpg",
       "desc": "Ціна: 153грн, вага: 380г"
-       },
+       }
       {
       "title": "BBQ Делюкс",
       "img": "pizza/legend/bbq_deluxe_short.jpg",
       "desc": "Ціна: 173грн, вага: 389г"
-      },
+      }
       {
       "title": " Екстраваганzza",
       "img": "pizza/premium/extravaganza_short.jpg",
