@@ -1,6 +1,6 @@
 { 
-  "main":{
-    "slides": [
+  "main":[
+    [
       { 
         "img": "50percent.jpg",
         "title": "Кожна друга піца зі знижкою"
@@ -22,7 +22,7 @@
         "title": ""
       }  
     ],
-    "rec": [
+    [
       {
       "title": "Пепероні-Блюз",
       "img": "pizza/classic/peperoni_bluz_short.jpg",
@@ -43,5 +43,6 @@
       "img": "pizza/premium/extravaganza_short.jpg",
       "desc": "Ціна: 189грн, вага: 470г"
       }
-  ]}
+    ]
+  ]
 }
