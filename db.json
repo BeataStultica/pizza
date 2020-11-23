@@ -45,28 +45,28 @@
       }
     ]
   ],
-  "categories": [
-    {
+  "categories": {
+    1:{
       "name": "Краща ціна",
       "description": "",
       "url": "bestPrice"
     },
-    {
+    2:{
       "name": "Класичні",
       "description": "",
       "url": "classic"
     },
-    {
+    3:{
       "name": "Легенди",
       "description": "",
       "url": "legends"
     },
-    {
+    4:{
       "name": "Преміум",
       "description": "",
       "url": "premium"
     }
-  ],
+  },
   "products": [
     {
       "name": "Піца Пепероні з томатами",
