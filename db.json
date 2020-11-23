@@ -2,32 +2,32 @@
   "main":[
     [
       { 
-        "url": "50percent"
+        "url": "50percent",
         "img": "50percent.jpg",
-        "title": "Кожна друга піца зі знижкою"
+        "title": "Кожна друга піца зі знижкою",
         "desc":"27-11-2020 \n Купляй піцу в цю середу і отримуй знижку 80% на другу таку ж"
       },
       { 
-        "url": "crazy"
+        "url": "crazy",
         "img": "crazy-tuesday.jpg",
-        "title": "Шалена середа"
+        "title": "Шалена середа",
         "desc": "27-11-2020 \n Купляй піцу в цю середу і отримуй знижку 80% на другу таку ж"
       },
       { 
-        "url": "wow"
+        "url": "wow",
         "img": "woweekend.jpg",
-        "title": "WoWeekend"
+        "title": "WoWeekend",
         "desc": "27-11-2020 \n Купляй піцу в цю середу і отримуй знижку 80% на другу таку ж"
       },
-      { "url": "30percent"
+      { "url": "30percent",
         "img": "30percent.jpg",
         "title": "Ми відкрились!"
         "desc":"27-11-2020 \n В честь відкриття знижка на всі середні і великі піци в 30%"
       },
       { 
-        "url": "179"
+        "url": "179",
         "img": "179-uah-pizza.jpg",
-        "title": "179 за піцу!"
+        "title": "179 за піцу!",
         "desc":"27-11-2020 \n В честь відкриття знижка на всі середні і великі піци в 30%"
       }
     ],
@@ -110,7 +110,7 @@
       "description": "Курка, Ананас, Моцарела, Соус Cyber",
       "url": "gavai",
       "price": 125,
-      "image": ["country_full.jpg","country_short.jpg],
+      "image": ["country_full.jpg","country_short.jpg"],
       "weight": 374,
       "recommended": true,
       "category": "Фірмова"
