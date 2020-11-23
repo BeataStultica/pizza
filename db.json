@@ -46,22 +46,22 @@
     ]
   ],
   "categories": {
-    1:{
+    "1":{
       "name": "Краща ціна",
       "description": "",
       "url": "bestPrice"
     },
-    2:{
+    "2":{
       "name": "Класичні",
       "description": "",
       "url": "classic"
     },
-    3:{
+    "3":{
       "name": "Легенди",
       "description": "",
       "url": "legends"
     },
-    4:{
+    "4":{
       "name": "Преміум",
       "description": "",
       "url": "premium"
