@@ -2,261 +2,228 @@
   "main":[
     [
       { 
+        "url": "50percent"
         "img": "50percent.jpg",
         "title": "Кожна друга піца зі знижкою"
+        "desc":"27-11-2020 \n Купляй піцу в цю середу і отримуй знижку 80% на другу таку ж"
       },
       { 
+        "url": "crazy"
         "img": "crazy-tuesday.jpg",
-        "title": "Шалена середа, знижки до "
+        "title": "Шалена середа"
+        "desc": "27-11-2020 \n Купляй піцу в цю середу і отримуй знижку 80% на другу таку ж"
       },
       { 
+        "url": "wow"
         "img": "woweekend.jpg",
-        "title": ""
+        "title": "WoWeekend"
+        "desc": "27-11-2020 \n Купляй піцу в цю середу і отримуй знижку 80% на другу таку ж"
       },
-      { 
+      { "url": "30percent"
         "img": "30percent.jpg",
-        "title": ""
+        "title": "Ми відкрились!"
+        "desc":"27-11-2020 \n В честь відкриття знижка на всі середні і великі піци в 30%"
       },
       { 
+        "url": "179"
         "img": "179-uah-pizza.jpg",
-        "title": ""
+        "title": "179 за піцу!"
+        "desc":"27-11-2020 \n В честь відкриття знижка на всі середні і великі піци в 30%"
       }
     ],
     [
       {
       "title": "Пепероні-Блюз",
-      "img": "pizza/classic/peperoni_bluz_short.jpg",
+      "img": "peperoni_bluz_short.jpg",
       "desc": "Ціна: 125грн, вага: 296г"
       },
       {
       "title": "Кантрі",
-      "img": "pizza/branded/country_short.jpg",
+      "img": "country_short.jpg",
       "desc": "Ціна: 153грн, вага: 380г"
        },
       {
       "title": "BBQ Делюкс",
-      "img": "pizza/legend/bbq_deluxe_short.jpg",
+      "img": "bbq_deluxe_short.jpg",
       "desc": "Ціна: 173грн, вага: 389г"
       },
       {
       "title": " Екстраваганzza",
-      "img": "pizza/premium/extravaganza_short.jpg",
+      "img": "extravaganza_short.jpg",
       "desc": "Ціна: 189грн, вага: 470г"
       }
     ]
   ],
-  "categories": {
-    "1":{
-      "name": "Краща ціна",
-      "description": "",
-      "url": "bestPrice"
-    },
-    "2":{
-      "name": "Класичні",
-      "description": "",
-      "url": "classic"
-    },
-    "3":{
-      "name": "Легенди",
-      "description": "",
-      "url": "legends"
-    },
-    "4":{
-      "name": "Преміум",
-      "description": "",
-      "url": "premium"
-    }
-  },
   "products": [
     {
       "name": "Піца Пепероні з томатами",
       "description": "Моцарела, Пепероні, Помідори, Соус Барбекю",
       "url": "peperoniTomato",
       "price": 93,
-      "image": "images/peperoniTomato.jpg",
+      "image": ["tomato_peperony_full.jpg","tomato_peperony_short.jpg"],
       "weight": 350,
       "recommended": true,
-      "categoryID": 0
+      "category": "Класична"
     },
     {
       "name": "Піца Маргарита",
       "description": "Моцарела, Соус Cyber",
       "url": "margarita",
       "price": 93,
-      "image": "images/margarita.jpg",
+      "image": ["vegetable_extravaganza_full.jpg","vegetable_extravaganza_short.jpg"],
       "weight": 339,
       "recommended": true,
-      "categoryID": 0
+      "category": "Класична"
     },
     {
       "name": "Піца Техас",
       "description": "Кукурудза, Цибуля, Гриби, Ковбаски баварські, Моцарела, Соус Барбекю",
       "url": "texas",
       "price": 93,
-      "image": "images/texas.jpg",
+      "image": ["texas_full.jpg", "texas_short.jpg"],
       "weight": 378,
       "recommended": false,
-      "categoryID": 0
+      "category": "Класична"
     },
     {
       "name": "Піца Пепероні Блюз",
       "description": "Бергадер Блю, Моцарела, Пепероні, Соус Альфредо",
       "url": "peperoniBluez",
       "price": 125,
-      "image": "images/peperoniBluez.jpg",
+      "image": ["peperony_bluz_full.jpg","peperony_bluz_short.jpg"],
       "weight": 296,
       "recommended": false,
-      "categoryID": 1
+      "category": "Класична"
     },
     {
       "name": "Піца Тоні Пепероні",
       "description": "Моцарела, Пепероні, Соус Cyber",
       "url": "toniPeperoni",
       "price": 125,
-      "image": "images/toniPeperoni.jpg",
+      "image": ["tony_peperoni_full.jpg","tony_peperoni_short.jpg"],
       "weight": 340,
       "recommended": true,
-      "categoryID": 1
+      "category": "Фірмова"
     },
     {
       "name": "Піца Гавайська",
       "description": "Курка, Ананас, Моцарела, Соус Cyber",
       "url": "gavai",
       "price": 125,
-      "image": "images/gavai.jpg",
+      "image": ["country_full.jpg","country_short.jpg],
       "weight": 374,
       "recommended": true,
-      "categoryID": 1
+      "category": "Фірмова"
     },
     {
       "name": "Піца Барбекю",
       "description": "Курка, Цибуля, Бекон, Гриби, Моцарела, Соус Барбекю",
       "url": "barbeky",
       "price": 125,
-      "image": "images/barbeky.jpg",
+      "image": ["curry_full.jpg","curry_full.jpg"],
       "weight": 374,
       "recommended": true,
-      "categoryID": 1
+      "category": "Фірмова"
     },
     {
       "name": "Піца Тоскана",
       "description": "Курка, Фета, Моцарела, Помідори чері, Соус Альфредо, Шпинат",
       "url": "toskana",
       "price": 173,
-      "image": "images/toskana.jpg",
+      "image": ["toskana_full.jpg","toskana_short.jpg"],
       "weight": 374,
       "recommended": true,
-      "categoryID": 2
+      "category": "Фірмова"
     },
     {
       "name": "Піца Мюнхенська DeLUX",
       "description": "Шинка, Гірчиця, Ковбаски баварські, Моцарела, Помідори, Сосиски білі, Соус Барбекю",
       "url": "munichDeluxe",
       "price": 173,
-      "image": "images/munichDeluxe.jpg",
+      "image": ["munich_de_lux_full.jpg","munich_de_lux_short.jpg"],
       "weight": 424,
       "recommended": true,
-      "categoryID": 2
+      "category": "Легенди"
     },
     {
       "name": "Піца Спайсі",
       "description": "Халапеньо, Бекон, Моцарела, Пепероні, Помідори, Соус Cyber",
       "url": "spaisi",
       "price": 173,
-      "image": "images/spaisi.jpg",
+      "image": ["spicy_full.jpg","spicy_short.jpg"],
       "weight": 380,
       "recommended": false,
-      "categoryID": 2
+      "category": "Легенди"
     },
     {
       "name": "Піца BBQ Делюкс",
       "description": "Фрикадельки, Цибуля, Пармезан, Болгарський перець, Гриби, Моцарела, Пепероні, Соус Барбекю",
       "url": "bbqDeluxe",
       "price": 173,
-      "image": "images/bbqDeluxe.jpg",
+      "image": ["bbq_deluxe_full.jpg","bbq_deluxe_short.jpg"],
       "weight": 389,
       "recommended": false,
-      "categoryID": 2
-    },
-    {
-      "name": "Піца Тунець",
-      "description": "Моцарела, Соус Cyber, Тунець",
-      "url": "tunets",
-      "price": 173,
-      "image": "images/tunets.jpg",
-      "weight": 353,
-      "recommended": false,
-      "categoryID": 2
+      "category": "Легенди"
     },
     {
       "name": "Піца Прованс",
       "description": "Бергадер Блю, Шинка, Моцарела, Пепероні, Помідори, Соус Альфредо",
       "url": "provans",
       "price": 173,
-      "image": "images/provans.jpg",
+      "image": ["toscana_full.jpg","toscana_short.jpg"],
       "weight": 343,
       "recommended": false,
-      "categoryID": 2
+      "category": "Легенди"
     },
     {
       "name": "Піца П'ять Сирів",
       "description": "Фета, Пармезан, Бергадер Блю, Моцарела, Соус Альфредо, Чеддер",
       "url": "cheese5",
       "price": 188,
-      "image": "images/cheese5.jpg",
+      "image": ["five_cheese_full.jpg","five_cheese_short.jpg"],
       "weight": 338,
       "recommended": true,
-      "categoryID": 3
+      "category": "Легенди"
     },
     {
       "name": "Піца Шпинат і Фета",
       "description": "Фета, Оливки, Болгарський перець, Гриби, Моцарела, Помідори, Соус Альфредо, Шпинат",
       "url": "fetaShpinat",
       "price": 188,
-      "image": "images/fetaShpinat.jpg",
+      "image": ["spinach_feta_full.jpg","spinach_feta_short.jpg"],
       "weight": 405,
       "recommended": false,
-      "categoryID": 3
+      "category": "Преміум"
     },
     {
       "name": "Піца МітZZа",
       "description": "Пармезан, Бекон, Шинка, Ковбаски баварські, Моцарела, Пепероні, Соус Domino's",
       "url": "mitzza",
       "price": 188,
-      "image": "images/mitzza.jpg",
+      "image": ["mizza_full.jpg","mizza_short.jpg"],
       "weight": 391,
       "recommended": false,
-      "categoryID": 3
+      "category": "Преміум"
     },
     {
       "name": "Піца Екстраваганzza",
       "description": "Фрикадельки, Оливки, Цибуля, Болгарський перець, Шинка, Гриби, Моцарела, Пепероні, Соус Cyber",
       "url": "extravagansa",
       "price": 188,
-      "image": "images/extravagansa.jpg",
+      "image": ["extravaganza_full.jpg","extravaganza_short.jpg"],
       "weight": 470,
       "recommended": true,
-      "categoryID": 3
-    },
-    {
-      "name": "Піца Баварська",
-      "description": "Пармезан, Ковбаски баварські, Моцарела, Соус Барбекю",
-      "url": "bayern",
-      "price": 188,
-      "image": "images/bayern.jpg",
-      "weight": 348,
-      "recommended": true,
-      "categoryID": 3
+      "category": "Преміум"
     },
     {
       "name": "Піца ПапараZZі",
       "description": "Оливки, Моцарела, Пепероні, Помідори, Соус Альфредо",
       "url": "paparazzi",
       "price": 188,
-      "image": "images/paparazzi.jpg",
+      "image": ["paparazzi_full.jpg","paparazzy_short.jpg"],
       "weight": 346,
       "recommended": false,
-      "categoryID": 3
+      "category": "Преміум"
     }
   ]
 
