@@ -90,7 +90,7 @@
       "description": "Бергадер Блю, Моцарела, Пепероні, Соус Альфредо",
       "url": "peperoniBluez",
       "price": 125,
-      "image": ["peperony_bluz_full.jpg","peperony_bluz_short.jpg"],
+      "image": ["peperoni_bluz_full.jpg","peperoni_bluz_short.jpg"],
       "weight": 296,
       "recommended": false,
       "category": "Класична"
@@ -100,7 +100,7 @@
       "description": "Моцарела, Пепероні, Соус Cyber",
       "url": "toniPeperoni",
       "price": 125,
-      "image": ["tony_peperoni_full.jpg","tony_peperoni_short.jpg"],
+      "image": ["tony_peperony_full.jpg","tony_peperony_short.jpg"],
       "weight": 340,
       "recommended": true,
       "category": "Фірмова"
@@ -120,7 +120,7 @@
       "description": "Курка, Цибуля, Бекон, Гриби, Моцарела, Соус Барбекю",
       "url": "barbeky",
       "price": 125,
-      "image": ["curry_full.jpg","curry_full.jpg"],
+      "image": ["curry_full.jpg","curry_short.jpg"],
       "weight": 374,
       "recommended": true,
       "category": "Фірмова"
@@ -170,7 +170,7 @@
       "description": "Бергадер Блю, Шинка, Моцарела, Пепероні, Помідори, Соус Альфредо",
       "url": "provans",
       "price": 173,
-      "image": ["toscana_full.jpg","toscana_short.jpg"],
+      "image": ["toskana_full.jpg","toskana_short.jpg"],
       "weight": 343,
       "recommended": false,
       "category": "Легенди"
@@ -213,16 +213,6 @@
       "image": ["extravaganza_full.jpg","extravaganza_short.jpg"],
       "weight": 470,
       "recommended": true,
-      "category": "Преміум"
-    },
-    {
-      "name": "Піца ПапараZZі",
-      "description": "Оливки, Моцарела, Пепероні, Помідори, Соус Альфредо",
-      "url": "paparazzi",
-      "price": 188,
-      "image": ["paparazzi_full.jpg","paparazzy_short.jpg"],
-      "weight": 346,
-      "recommended": false,
       "category": "Преміум"
     }
   ]
